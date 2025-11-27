@@ -1,1 +1,0 @@
-# LSTM Stock Prediction Project
